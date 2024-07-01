@@ -13,7 +13,8 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://example.com/luoluobin
+root: /Myweb/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -108,6 +109,5 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://llllllllobin.github.io/RobinBlog.github.io/
-  branch: main
-  token: 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
+  repo: https://gitee.com/luoluobin/myweb
+  branch: master
